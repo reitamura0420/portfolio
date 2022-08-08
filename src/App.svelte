@@ -41,33 +41,35 @@
           <div class="border-solid border-4 border-blue-400 p-6 w-[400px] mr-8">
             <p class="text-xl text-center mb-2">フロントエンド</p>
             <p class="text-xl">HTML：業務経験3年半</p>
-            <p class="text-xl">CSS：業務経験3年半</p>
+            <p class="text-xl ">CSS：業務経験3年半</p>
+              <p class="text-l text-gray-800">・Sass：業務経験半年</p>
             <p class="text-xl">JavaScript：業務経験3年半</p>
-              <p class="text-xl"> React：業務経験2年半</p>
-              <p class="text-xl"> Vue：業務経験半年</p>
-              <p class="text-xl"> Svelte：独学で勉強中</p>
-              <p class="text-xl"> React Native：独学で勉強中</p>
+              <p class="text-l text-gray-800">・React：業務経験2年半</p>
+              <p class="text-l text-gray-800">・Vue：業務経験半年</p>
+              <p class="text-l text-gray-800">・Svelte：独学で勉強中</p>
+              <p class="text-l text-gray-800">・React Native：独学で勉強中</p>
           </div>
           <div class="border-solid border-4 border-blue-400 p-6 w-[400px]">
             <p class="text-xl text-center mb-2">バックエンド</p>
             <p class="text-xl">Java：業務経験2年半</p>
-            <p class="text-xl">Play：業務経験2年半</p>
-            <p class="text-xl">Spring：業務経験半年</p>
+            <p class="text-l text-gray-800">・Play Framework：業務経験2年半</p>
+            <p class="text-l text-gray-800">・Spring Framework：業務経験半年</p>
             <p class="text-xl">Python：業務経験半年</p>
-              <p class="text-xl"> Django：業務経験半年</p>
-              <p class="text-xl"> Flask：独学で勉強中</p>
-            <p class="text-xl"> Rust：独学で勉強中</p>
+              <p class="text-l text-gray-800">・Django：業務経験半年</p>
+              <p class="text-l text-gray-800">・Flask：独学で勉強中</p>
+            <p class="text-xl">Rust：独学で勉強中</p>
           </div>
         </div>
         <div class="flex">
           <div class="border-solid border-4 border-blue-400 p-6 w-[400px] mr-8">
             <p class="text-xl text-center mb-2">その他</p>
             <p class="text-xl">DB・SQL：業務経験3年半</p>
-            　<p class="text-xl">MySQL：業務経験2年半</p>
-            　<p class="text-xl">PosgleSQL：業務経験半年</p>
-            　<p class="text-xl">Oracle DB：社内研修で学習</p>
+            　<p class="text-l text-gray-800">・MySQL：業務経験2年半</p>
+            　<p class="text-l text-gray-800">・DynamoDB：業務経験1年</p>
+            　<p class="text-l text-gray-800">・PosgleSQL：業務経験半年</p>
+            　<p class="text-l text-gray-800">・Oracle DataBase：社内研修で学習</p>
           <p class="text-xl">Unity：独学で勉強中</p>
-            <p class="text-xl">Google Analytics、Git</p>
+            <p class="text-xl">Google Analytics、Git、Dockerを業務で使用経験あり</p>
           </div>
           <div class="border-solid border-4 border-blue-400 p-6 w-[400px]">
             <p class="text-xl text-center mb-2">資格</p>
@@ -87,14 +89,14 @@
         </div>
         <div class="border-solid border-4 border-blue-400 p-6 w-[400px]">
           <p class="text-xl text-center mb-2">Omomuki Shorts</p>
-          <p class="text-xl">使用技術：react、AWS amplify</p>
+          <p class="text-xl">使用技術：React、AWS Amplify</p>
           <p class="text-xl">技術選定・要件詰め・開発業務を担当</p>
         </div>
       </div>
       <div class="flex mb-8">
         <div class="border-solid border-4 border-blue-400 p-6 w-[400px] mr-8">
           <p class="text-xl text-center mb-2">PortForio</p>
-          <p class="text-xl">使用技術：svelte.js、vite</p>
+          <p class="text-xl">使用技術：Svelte、vite</p>
         </div>
         <div class="p-2 w-[400px]">
           <img src={product2Icon} alt="PortForio" />
@@ -106,13 +108,13 @@
         </div>
         <div class="border-solid border-4 border-blue-400 p-6 w-[400px]">
           <p class="text-xl text-center mb-2">Strelka Blog</p>
-          <p class="text-xl">使用技術：gatsby.js</p>
+          <p class="text-xl">使用技術：Gatsby</p>
         </div>
       </div>
       <div class="flex">
         <div class="border-solid border-4 border-blue-400 p-6 w-[400px] mr-8">
           <p class="text-xl text-center mb-2">フォトマ（開発途中）</p>
-          <p class="text-xl">使用技術：react native、flask、Docker、OpenCV</p>
+          <p class="text-xl">使用技術：React Native、Flask、Docker、OpenCV</p>
         </div>
         <div class="p-2 w-[400px]">
           <img src={product4Icon} alt="PhotoMa" />
