@@ -30,6 +30,7 @@
           <p class="sm:text-xl text-lg mb-1">学歴：千葉工業大学工学部未来ロボティクス学科</p>
           <p class="sm:text-xl text-lg mb-1">職歴：フルスタックエンジニア四年目</p>
           <p class="sm:text-xl text-lg mb-1">16Personalities：討論者（ENTP-A / ENTP-T）</p>
+          <p class="sm:text-xl text-lg mb-1">趣味：ラーメン巡り、ランニング、バドミントン、アニメ鑑賞</p>
         </div>
       </div>
     </div>
@@ -37,9 +38,9 @@
     <!-- start skill -->
     <div class="bg-white flex sm:p-8 p-4 flex-col items-center sm:mb-12 sm:mx-10 mb-6 mx-5">
       <p class="text-2xl mb-4">技術要素~Skill~</p>
-        <div class="flex flex-col sm:flex-row items-center">
-          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full sm:mr-8 mb-8">
-            <p class="text-xl text-center mb-2">フロントエンド</p>
+        <div class="flex flex-col sm:flex-row items-center sm:w-[820px] w-full">
+          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full sm:mr-8 mb-12">
+            <p class="text-xl text-center mb-6 mt-[-40px] sm:mx-20 mx-12 bg-white">フロントエンド</p>
             <p class="text-xl">HTML：業務経験3年半</p>
             <p class="text-xl ">CSS：業務経験3年半</p>
               <p class="text-l text-gray-800">・Sass：業務経験半年</p>
@@ -49,8 +50,8 @@
               <p class="text-l text-gray-800">・Svelte：独学で勉強中</p>
               <p class="text-l text-gray-800">・React Native：独学で勉強中</p>
           </div>
-          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full mb-8">
-            <p class="text-xl text-center mb-2">バックエンド</p>
+          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full mb-12">
+            <p class="text-xl text-center mb-6 mt-[-40px] sm:mx-20 mx-12 bg-white">バックエンド</p>
             <p class="text-xl">Java：業務経験2年半</p>
             <p class="text-l text-gray-800">・Play Framework：業務経験2年半</p>
             <p class="text-l text-gray-800">・Spring Framework：業務経験半年</p>
@@ -60,19 +61,19 @@
             <p class="text-xl">Rust：独学で勉強中</p>
           </div>
         </div>
-        <div class="flex flex-col sm:flex-row items-center">
-          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full sm:mr-8 mb-8">
-            <p class="text-xl text-center mb-2">その他</p>
+        <div class="flex flex-col sm:flex-row items-center sm:w-[820px] w-full">
+          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full sm:mr-8 mb-12">
+            <p class="text-xl text-center mb-6 mt-[-40px] sm:mx-20 mx-12 bg-white">その他</p>
             <p class="text-xl">DB・SQL：業務経験3年半</p>
-            　<p class="text-l text-gray-800">・MySQL：業務経験2年半</p>
-            　<p class="text-l text-gray-800">・DynamoDB：業務経験1年</p>
-            　<p class="text-l text-gray-800">・PosgleSQL：業務経験半年</p>
-            　<p class="text-l text-gray-800">・Oracle DataBase：社内研修で学習</p>
+            <p class="text-l text-gray-800">・MySQL：業務経験2年半</p>
+            <p class="text-l text-gray-800">・DynamoDB：業務経験1年</p>
+            <p class="text-l text-gray-800">・PosgleSQL：業務経験半年</p>
+            <p class="text-l text-gray-800">・Oracle DataBase：社内研修で学習</p>
           <p class="text-xl">Unity：独学で勉強中</p>
             <p class="text-xl">Google Analytics、Git、Dockerを業務で使用経験あり</p>
           </div>
-          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full mb-8">
-            <p class="text-xl text-center mb-2">資格</p>
+          <div class="border-solid border-4 border-blue-400 p-6 sm:h-[300px] sm:w-[400px] w-full mb-12">
+            <p class="text-xl text-center mb-6 mt-[-40px] sm:mx-20 mx-12 bg-white">資格</p>
             <p class="text-xl">・Java SE 8 Programmer II</p>
             <p class="text-xl">・ORACLE MASTER Bronze Oracle Database 12c</p>
             <p class="text-xl">・Google アナリティクス個人認定資格</p>
