@@ -91,7 +91,9 @@
           <p class="text-xl">技術選定・要件詰め・開発業務を担当</p>
         </div>
         <div class="p-2 sm:w-[380px] w-full mb-8">
-          <img src={product1Icon} alt="Omomuki Shorts" />
+          <a href="https://omomukishorts.com/">
+            <img src={product1Icon} alt="Omomuki Shorts" />
+          </a>
         </div>
       </div>
       <div class="sm:flex">
@@ -105,11 +107,13 @@
       </div>
       <div class="sm:flex">
         <div class="border-solid border-4 border-blue-400 p-6 sm:w-[380px] w-full sm:mr-8 mb-8">
-          <p class="text-xl text-center mb-2">Strelka Blog</p>
-          <p class="text-xl">使用技術：Gatsby</p>
+          <p class="text-xl text-center mb-2">chellBlog</p>
+          <p class="text-xl">使用技術：Gatsby、netlify</p>
         </div>
         <div class="p-2 sm:w-[380px] w-full mb-8">
-          <img src={product3Icon} alt="StrelkaBlog" />
+          <a href="https://chellblog.netlify.app/">
+            <img src={product3Icon} alt="chellBlog" />
+          </a>
         </div>
       </div>
       <div class="sm:flex">
@@ -118,7 +122,9 @@
           <p class="text-xl">使用技術：React Native、Flask、Docker、OpenCV</p>
         </div>
         <div class="p-2 sm:w-[380px] w-full mb-8">
+          <a href="https://docs.google.com/presentation/d/1Xi1yZDmeJyidBM682hdm074QwPRaWzcbqP08QyezjyE/edit#slide=id.p">
           <img src={product4Icon} alt="PhotoMa" />
+          </a>
         </div>
       </div>
     </div>
